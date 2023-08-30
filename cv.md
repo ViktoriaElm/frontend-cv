@@ -5,6 +5,7 @@
 
   <h3 align="left">Frontend developer (Intern)</h3>
 
+</br>
   <p align="left">
     Link to repositories:
     <br />
