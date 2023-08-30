@@ -13,7 +13,7 @@
   <p align="center">
     My contacts:
     <br />
-    <a href="https://t.me/Viktoria_Gorkina">Get in touch on Telegram</a>
+    <a href="https://wa.me/79218743998">Get in touch on Telegram</a>
   </p>
 </div>
 
