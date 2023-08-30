@@ -8,13 +8,12 @@
   <p align="center">
     Link to repositories:
     <br />
-    <a href="[https://github.com/ViktoriaElm/nextjs-crm-recruitment](https://github.com/ViktoriaElm?tab=repositories)">View Demo</a>
+    <a href="https://github.com/ViktoriaElm?tab=repositories">View repositories:</a>
   </p>
-  <br />
   <p align="center">
     My contacts:
     <br />
-    <a href="[https://t.me/Viktoria_Gorkina](https://t.me/Viktoria_Gorkina)">Get in touch on Telegram</a>
+    <a href="https://t.me/Viktoria_Gorkina">Get in touch on Telegram</a>
   </p>
 </div>
 
