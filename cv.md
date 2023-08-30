@@ -1,11 +1,11 @@
 # Gorkina Victoria
 
 <br />
-<div align="center">
+<div align="left">
 
-  <h3 align="center">Frontend developer (Intern)</h3>
+  <h3 align="left">Frontend developer (Intern)</h3>
 
-  <p align="center">
+  <p align="left">
     Link to repositories:
     <br />
     <a href="https://github.com/ViktoriaElm?tab=repositories">View repositories:</a>
@@ -19,10 +19,19 @@
   </p>
 </div>
 
+<p>
+Hello! My name is Victoria, and currently I work in the field of IT recruitment, but recently I have made the decision to transition into front-end development.
+</p>
+<p>
+I have always enjoyed creating something new and unique, so choosing front-end development felt like a natural step for me. I am passionate about designing user interfaces and love seeing my work come to life.
+</p>
+<p>
+One of the main reasons I decided to switch to front-end development is my passion for continuous learning and staying up-to-date with new technologies. This field is constantly evolving, and there is always something new to learn. I enjoy the process of learning new programming languages, frameworks, and tools to stay current with industry trends.
+</p>
+<p>
+I am confident that transitioning into front-end development will be a new challenge for me, but I am ready to put in all my efforts and knowledge to succeed in this field. I strive to become a highly skilled front-end developer and contribute to creating innovative and user-friendly interfaces.
+</p>
 
-
-
-Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое)
 Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
 Примеры кода
 Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
