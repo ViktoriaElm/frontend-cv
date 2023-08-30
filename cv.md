@@ -13,7 +13,9 @@
   <p align="center">
     My contacts:
     <br />
-    <a href="https://wa.me/79218743998">Get in touch on Telegram</a>
+    <a href="https://t.me/viktoria_gorkina">Telegram</a>
+    <br />
+    <a href="https://wa.me/79218743998">WhatsApp</a>
   </p>
 </div>
 
