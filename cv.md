@@ -10,7 +10,7 @@
     <br />
     <a href="https://github.com/ViktoriaElm?tab=repositories">View repositories:</a>
   </p>
-  <p align="center">
+  <p align="left">
     My contacts:
     <br />
     <a href="https://t.me/viktoria_gorkina">Telegram</a>
@@ -18,6 +18,7 @@
     <a href="https://wa.me/79218743998">WhatsApp</a>
   </p>
 </div>
+</br>
 <div align="left">
   <p>
   Hello! My name is Victoria, and currently I work in the field of IT recruitment, but recently I have made the decision to transition into front-end development.
