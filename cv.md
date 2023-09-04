@@ -49,13 +49,39 @@
 <br />
 
 <div align="left">
-  <h3 align="left">Front-end development training</h3>
-  <h5 align="left">Aug 2022 - Aug 2023</h5>
-  <p>
-    Learning JavaScript, HTML, CSS, React.js, Next.js.
+  <h3 align="left">Experience</h3>
+  <p align="left">
+    Computer Academy "Step" / Front-end development training
+    <br />
+    Aug 2022 - Aug 2023
+    <br />
+     <a href="#">View certificate</a>
   </p>
-  <br />
-  <h3 align="left">Some study projects:</h3>
+  <br/>
+  <p>
+    Some study projects:
+  </p>
+    <br />
+  <p align="left">
+    ToDo list (Next.js):
+    <br />
+    <a href="https://github.com/ViktoriaElm/nextjs-todo-list">Repository</a> / <a href="https://nextjs-todo-list-one.vercel.app/">Build</a>
+  </p>
+  <p align="left">
+    Movie Search (Next.js):
+    <br />
+    <a href="https://github.com/ViktoriaElm/nextjs-search-movie">Repository</a> / <a href="https://nextjs-search-movie.vercel.app/">Build</a>
+  </p>
+  <p align="left">
+    Recruiting automation (Next.js):
+    <br />
+    <a href="https://github.com/ViktoriaElm/nextauth">Repository</a> / <a href="https://nextauth-ruddy.vercel.app/">Build</a>
+  </p>
+</div>
+
+<div align="left">
+ 
+  
   <p align="left">
     ToDo list (Next.js):
     <br />
