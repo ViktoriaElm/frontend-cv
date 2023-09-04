@@ -76,6 +76,7 @@
     <a href="https://github.com/ViktoriaElm/nextauth">Repository</a> / <a href="https://nextauth-ruddy.vercel.app/">Build</a>
   </p>
 </div>
+<br />
 
 <div align="left">
   <h3 align="left">Education</h3>
