@@ -54,9 +54,7 @@
   <p align="left">
     ToDo list (Next.js):
     <br />
-    <a href="https://github.com/ViktoriaElm/nextjs-todo-list">Repository</a>
-    <br />
-    <a href="https://nextjs-todo-list-one.vercel.app/">Build</a>
+    <a href="https://github.com/ViktoriaElm/nextjs-todo-list">Repository</a>/<a href="https://nextjs-todo-list-one.vercel.app/">Build</a>
   </p>
 </div>
 
