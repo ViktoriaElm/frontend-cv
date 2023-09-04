@@ -2,14 +2,12 @@
 
 <br />
 <div align="left">
-
   <h3 align="left">Frontend developer (Intern)</h3>
-
 </br>
   <p align="left">
     Link to repositories:
     <br />
-    <a href="https://github.com/ViktoriaElm?tab=repositories">View repositories:</a>
+    <a href="https://github.com/ViktoriaElm?tab=repositories">View repositories</a>
   </p>
   <p align="left">
     My contacts:
@@ -37,15 +35,17 @@
 
 <div align="left">
   <h3 align="left">Skills</h3>
-</br>
   <p align="left">
     React.js, Next.js, JavaScript, HTML, CSS, GitHub, Vercel, Prisma (ORM)
   </p>
 </div>
 </br>
 
-Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
-Примеры кода
+<div align="left">
+  <h3 align="left">Code example:</h3>
+  <a href="https://github.com/ViktoriaElm/nextauth/blob/master/components/candidates/Base.js">View code</a>
+</div>
+
 Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
 Образование (включая пройденные курсы и тренинги)
 Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
