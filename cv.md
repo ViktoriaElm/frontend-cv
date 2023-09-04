@@ -16,7 +16,7 @@
     <a href="https://wa.me/79218743998">WhatsApp</a>
   </p>
 </div>
-<br />
+
 <div align="left">
   <p>
   Hello! My name is Victoria, and currently I work in the field of IT recruitment, but recently I have made the decision to transition into front-end development.
