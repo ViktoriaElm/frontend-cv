@@ -80,27 +80,6 @@
 </div>
 
 <div align="left">
- 
-  
-  <p align="left">
-    ToDo list (Next.js):
-    <br />
-    <a href="https://github.com/ViktoriaElm/nextjs-todo-list">Repository</a> / <a href="https://nextjs-todo-list-one.vercel.app/">Build</a>
-  </p>
-  <p align="left">
-    Movie Search (Next.js):
-    <br />
-    <a href="https://github.com/ViktoriaElm/nextjs-search-movie">Repository</a> / <a href="https://nextjs-search-movie.vercel.app/">Build</a>
-  </p>
-  <p align="left">
-    Recruiting automation (Next.js):
-    <br />
-    <a href="https://github.com/ViktoriaElm/nextauth">Repository</a> / <a href="https://nextauth-ruddy.vercel.app/">Build</a>
-  </p>
-</div>
-<br />
-
-<div align="left">
   <h3 align="left">Education</h3>
   <p align="left">
     Tomsk State University / Web programmer: from scratch to first projects
