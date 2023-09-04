@@ -46,7 +46,6 @@
 </div>
 <div align="left">
   <h3 align="left">Front-end development training</h3>
-  <br />
   <h5 align="left">Aug 2022 - Aug 2023</h5>
   <p>
     Learning JavaScript, HTML, CSS, React.js, Next.js.
