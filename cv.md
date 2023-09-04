@@ -56,15 +56,20 @@
     <br />
     <a href="https://github.com/ViktoriaElm/nextjs-todo-list">Repository</a> / <a href="https://nextjs-todo-list-one.vercel.app/">Build</a>
   </p>
+  <p align="left">
+    Movie Search (Next.js):
+    <br />
+    <a href="https://github.com/ViktoriaElm/nextjs-search-movie">Repository</a> / <a href="https://nextjs-search-movie.vercel.app/">Build</a>
+  </p>
 </div>
 
 
 
 
 
-Movie Search (Next.js):
-Repository: https://github.com/ViktoriaElm/nextjs-search-movie
-Build: https://nextjs-search-movie.vercel.app/
+
+Repository: 
+Build: 
 
 Recruiting automation (Next.js):
 Repository: https://github.com/ViktoriaElm/nextauth
