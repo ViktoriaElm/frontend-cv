@@ -61,21 +61,12 @@
     <br />
     <a href="https://github.com/ViktoriaElm/nextjs-search-movie">Repository</a> / <a href="https://nextjs-search-movie.vercel.app/">Build</a>
   </p>
+  <p align="left">
+    Recruiting automation (Next.js):
+    <br />
+    <a href="https://github.com/ViktoriaElm/nextauth">Repository</a> / <a href="https://nextauth-ruddy.vercel.app/">Build</a>
+  </p>
 </div>
-
-
-
-
-
-
-Repository: 
-Build: 
-
-Recruiting automation (Next.js):
-Repository: https://github.com/ViktoriaElm/nextauth
-Build: https://nextauth-ruddy.vercel.app/
-
-
 
 
 Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
