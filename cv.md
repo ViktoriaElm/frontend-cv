@@ -35,19 +35,52 @@
 
 <div align="left">
   <h3 align="left">Skills</h3>
-  <p align="left">
+  <span align="left">
     React.js, Next.js, JavaScript, HTML, CSS, GitHub, Vercel, Prisma (ORM)
-  </p>
+  </span>
 </div>
-</br>
 
 <div align="left">
   <h3 align="left">Code example:</h3>
   <a href="https://github.com/ViktoriaElm/nextauth/blob/master/components/candidates/Base.js">View code</a>
 </div>
 
+<div align="left">
+  <h3 align="left">Front-end development training</h3>
+  <br />
+  <h5 align="left">Aug 2022 - Aug 2023</h5>
+  <p>
+    Learning JavaScript, HTML, CSS, React.js, Next.js.
+  </p>
+  <h3 align="left">Some study projects:</h3>
+  <p align="left">
+    ToDo list (Next.js):
+    <br />
+    <a href="https://github.com/ViktoriaElm/nextjs-todo-list">Repository</a>
+    <br />
+    <a href="https://nextjs-todo-list-one.vercel.app/">Build</a>
+  </p>
+</div>
+
+
+
+
+
+Movie Search (Next.js):
+Repository: https://github.com/ViktoriaElm/nextjs-search-movie
+Build: https://nextjs-search-movie.vercel.app/
+
+Recruiting automation (Next.js):
+Repository: https://github.com/ViktoriaElm/nextauth
+Build: https://nextauth-ruddy.vercel.app/
+
+
+
+
 Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
+
 Образование (включая пройденные курсы и тренинги)
+
 Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
 
 Рекомендации к составлению CV:
