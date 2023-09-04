@@ -74,8 +74,9 @@
     Tomsk State University / Web programmer: from scratch to first projects
     <br />
     Apr 2022 - Jun 2022
+    <br />
+     <a href="https://drive.google.com/file/d/1i8e8kx836KY_uPLvp1_mRmKPnSRQhPH3/view?usp=sharing">View certificate</a>
   </p>
-    <a href="https://drive.google.com/file/d/1i8e8kx836KY_uPLvp1_mRmKPnSRQhPH3/view?usp=sharing">View certificate</a>
 </div>
 
 
