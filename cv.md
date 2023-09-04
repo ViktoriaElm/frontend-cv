@@ -32,6 +32,7 @@
   I am confident that transitioning into front-end development will be a new challenge for me, but I am ready to put in all my efforts and knowledge to succeed in this field. I strive to become a highly skilled front-end developer    and contribute to creating innovative and user-friendly interfaces.
   </p>
 </div>
+<br />
 
 <div align="left">
   <h3 align="left">Skills</h3>
@@ -39,17 +40,21 @@
     React.js, Next.js, JavaScript, HTML, CSS, GitHub, Vercel, Prisma (ORM)
   </span>
 </div>
+<br />
 
 <div align="left">
   <h3 align="left">Code example:</h3>
   <a href="https://github.com/ViktoriaElm/nextauth/blob/master/components/candidates/Base.js">View code</a>
 </div>
+<br />
+
 <div align="left">
   <h3 align="left">Front-end development training</h3>
   <h5 align="left">Aug 2022 - Aug 2023</h5>
   <p>
     Learning JavaScript, HTML, CSS, React.js, Next.js.
   </p>
+  <br />
   <h3 align="left">Some study projects:</h3>
   <p align="left">
     ToDo list (Next.js):
@@ -67,6 +72,7 @@
     <a href="https://github.com/ViktoriaElm/nextauth">Repository</a> / <a href="https://nextauth-ruddy.vercel.app/">Build</a>
   </p>
 </div>
+<br />
 
 <div align="left">
   <h3 align="left">Education</h3>
