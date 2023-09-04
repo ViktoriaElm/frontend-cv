@@ -38,7 +38,6 @@
     React.js, Next.js, JavaScript, HTML, CSS, GitHub, Vercel, Prisma (ORM)
   </span>
 </div>
-<br />
 
 <div align="left">
   <h3 align="left">Code example:</h3>
