@@ -1,9 +1,8 @@
 # Gorkina Victoria
 
-<br />
 <div align="left">
   <h3 align="left">Frontend developer (Intern)</h3>
-</br>
+<br />
   <p align="left">
     Link to repositories:
     <br />
@@ -17,7 +16,7 @@
     <a href="https://wa.me/79218743998">WhatsApp</a>
   </p>
 </div>
-</br>
+<br />
 <div align="left">
   <p>
   Hello! My name is Victoria, and currently I work in the field of IT recruitment, but recently I have made the decision to transition into front-end development.
@@ -32,7 +31,6 @@
   I am confident that transitioning into front-end development will be a new challenge for me, but I am ready to put in all my efforts and knowledge to succeed in this field. I strive to become a highly skilled front-end developer    and contribute to creating innovative and user-friendly interfaces.
   </p>
 </div>
-<br />
 
 <div align="left">
   <h3 align="left">Skills</h3>
@@ -46,7 +44,6 @@
   <h3 align="left">Code example:</h3>
   <a href="https://github.com/ViktoriaElm/nextauth/blob/master/components/candidates/Base.js">View code</a>
 </div>
-<br />
 
 <div align="left">
   <h3 align="left">Experience</h3>
@@ -74,7 +71,7 @@
     <a href="https://github.com/ViktoriaElm/nextauth">Repository</a> / <a href="https://nextauth-ruddy.vercel.app/">Build</a>
   </p>
 </div>
-<br />
+
 <div align="left">
   <h3 align="left">Education</h3>
   <p align="left">
@@ -99,7 +96,7 @@
      <a href="https://drive.google.com/file/d/1APlpOKApOSJC-SDE0ReElFaTyHAfXfx6/view?usp=sharing">View certificate</a>
   </p>
 </div>
-<br />
+
 <div align="left">
   <h3 align="left">Languages</h3>
   <p align="left">
