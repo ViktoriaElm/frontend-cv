@@ -44,7 +44,6 @@
   <h3 align="left">Code example:</h3>
   <a href="https://github.com/ViktoriaElm/nextauth/blob/master/components/candidates/Base.js">View code</a>
 </div>
-
 <div align="left">
   <h3 align="left">Front-end development training</h3>
   <br />
