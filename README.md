@@ -1,3 +1,3 @@
 # rsschool-cv
 
-<a href="https://ViktoriaElm.github.io/rsschool-cv/cv">https://ViktoriaElm.github.io/rsschool-cv/cv</a>
+<a href="https://github.com/ViktoriaElm/frontend-cv/cv">https://github.com/ViktoriaElm/frontend-cv/cv</a>
