@@ -1,2 +1,2 @@
-# rsschool-cv
-https://ViktoriaElm.github.io/rsschool-cv/cv
+# frontend-cv
+https://github.com/ViktoriaElm/frontend-cv/cv
