@@ -1,2 +1,2 @@
 # frontend-cv
-https://github.com/ViktoriaElm/frontend-cv/cv
+https://ViktoriaElm.github.io/frontend-cv/cv
