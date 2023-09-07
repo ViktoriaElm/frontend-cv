@@ -78,7 +78,7 @@
     <br />
     Aug 2022 - Aug 2023
     <br />
-     <a href="#">View certificate</a>
+     <a href="https://drive.google.com/file/d/1eiiToEAsHAhMuh-ttBYOiW1k2vy2JQRY/view?usp=sharing">View certificate</a>
   </p>
   <p align="left">
     Tomsk State University / Web programmer: from scratch to first projects
